@@ -26,7 +26,7 @@ meta {
     
     .svg-container {
         width: 100%;
-        background-color: lightgray; /* Color de fondo para identificación */
+        background-color: lightgray; 
     }
     
     @media (max-width: 800px) {
@@ -37,17 +37,17 @@ meta {
     
         .profile-image {
             width: 50%;
-            margin-bottom: 10px; /* Espacio entre elementos */
+            margin-bottom: 10px;
         }
     
         .name {
             width: 100%;
-            margin-bottom: 10px; /* Espacio entre elementos */
+            margin-bottom: 10px; 
         }
     
         .svg-container {
             width: 100%;
-            background-color: lightgray; /* Color de fondo para identificación */
-            padding: 10px; /* Opcional: añadir un poco de padding */
+            background-color: lightgray; 
+            padding: 10px; 
         }
     }
